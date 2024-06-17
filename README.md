@@ -61,11 +61,12 @@ Give an example:
     </script>
 </body>
 </html>
-Deployment
-1.Upload the project files to your web server.
-2.Ensure the web server is configured to serve HTML, CSS, and JavaScript files.
-3.Access the index.html file through your web server's URL.
-Built With
-1.HTML5 Canvas API - Drawing API
-2.JavaScript - Programming language
-3.Bootstrap - CSS framework for responsive design
+
+### Customization Tips:
+1. **Project Description**: Replace the placeholder text in the description with specific details about your project.
+2. **Prerequisites**: List any other software or tools needed to run your project.
+3. **Examples**: Add more detailed test cases or examples specific to your project.
+4. **Deployment**: Include any server-specific instructions if necessary.
+5. **Authors**: Replace with your name and GitHub profile.
+6. **Acknowledgments**: Mention any resources or inspiration you used in your project.
+
